@@ -5,7 +5,6 @@ A discord Server Cloner Written In Python By Slinder .
 - SLINDER 
 - _u6.#0
 - https://discord.gg/cyb
-- youtube: (slinder0)
 
 # Open Source Code
 
